@@ -1,4 +1,4 @@
-# Classification_of_flowers
+# Classification_of_Fruits
 Deep Learning Using Pytorch 
 
 Wrote a [Medium Blog](https://github.com/shwetanshutech/Classification_of_fruit360data/blob/master/image.png)
